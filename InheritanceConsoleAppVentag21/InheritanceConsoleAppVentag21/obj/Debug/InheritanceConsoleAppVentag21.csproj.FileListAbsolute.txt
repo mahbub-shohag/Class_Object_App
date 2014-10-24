@@ -1,0 +1,6 @@
+D:\c# Applications\InheritanceConsoleAppVentag21\InheritanceConsoleAppVentag21\bin\Debug\InheritanceConsoleAppVentag21.exe.config
+D:\c# Applications\InheritanceConsoleAppVentag21\InheritanceConsoleAppVentag21\bin\Debug\InheritanceConsoleAppVentag21.exe
+D:\c# Applications\InheritanceConsoleAppVentag21\InheritanceConsoleAppVentag21\bin\Debug\InheritanceConsoleAppVentag21.pdb
+D:\c# Applications\InheritanceConsoleAppVentag21\InheritanceConsoleAppVentag21\obj\Debug\InheritanceConsoleAppVentag21.csprojResolveAssemblyReference.cache
+D:\c# Applications\InheritanceConsoleAppVentag21\InheritanceConsoleAppVentag21\obj\Debug\InheritanceConsoleAppVentag21.exe
+D:\c# Applications\InheritanceConsoleAppVentag21\InheritanceConsoleAppVentag21\obj\Debug\InheritanceConsoleAppVentag21.pdb
